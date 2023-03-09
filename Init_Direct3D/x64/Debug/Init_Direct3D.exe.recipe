@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\69hop\OneDrive\문서\A_2023_02_DirectX12Project\x64\Debug\Init_Direct3D.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\69hop\OneDrive\문서\A_2023_02_DirectX12Project\x64\Debug\Color.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\69hop\OneDrive\문서\A_2023_02_DirectX12Project\x64\Debug\LightingUtil.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\69hop\OneDrive\문서\A_2023_02_DirectX12Project\x64\Debug\Skybox.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\69hop\OneDrive\문서\A_2023_02_DirectX12Project\x64\Debug\Params.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
